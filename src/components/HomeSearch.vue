@@ -28,7 +28,7 @@ export default {
 @yellow: rgb(250, 223, 118);
 .main{
     height: 100px;
-    width: 360px;
+    width: 320px;
     margin: 0 auto;
     box-shadow: 0 0 10px @gray;
     text-align: left;
@@ -55,7 +55,7 @@ export default {
       line-height: 50px;
       margin-left: 20px; 
       input{
-        width: 215px;
+        width: 200px;
         height: 40px;
         font-size: 16px;
         border: 0;
@@ -65,7 +65,7 @@ export default {
         background-color: @yellow;
         border: 0;
         height: 35px;
-        width: 107px;
+        width: 82px;
         font-weight: 900;
         font-size: 17px;
         border-radius: 3px;

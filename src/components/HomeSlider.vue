@@ -30,7 +30,7 @@ export default {
     show(index){
       this.changePointX=this.startPointX;
       let slider = document.getElementById('slider');
-      slider.style.marginLeft=`-${370*index}px`;
+      slider.style.marginLeft=`-${330*index}px`;
     },
     touchstart(e){
       this.startPointX = e.changedTouches[0].pageX;
@@ -56,9 +56,8 @@ export default {
 <style lang="less" scoped>
 .main{
   width: 100%;
-  
   .title{
-    width: 360px;
+    width: 320px;
     margin: 0 auto;
     margin-top: 20px;
     margin-bottom: 10px; 
@@ -77,9 +76,9 @@ export default {
     overflow: hidden;
     white-space: nowrap;
     transition: 1s; 
-    padding: 0 calc(50vw - 180px);
+    padding: 0 calc(50vw - 160px);
     img{
-      width: 360px;
+      width: 320px;
       display: inline;
       margin-right: 10px;
     }

@@ -2,6 +2,9 @@
 
 还没做完，慢慢更新。
 
+<a href="https://buppt.github.io/webapp-vue-demo/dist/#/">可以点击这里查看</a>。
+请用手机或谷歌浏览器的移动端开发者模式。
+ 
 ## Build Setup
 
 ``` bash
