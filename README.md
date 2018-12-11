@@ -1,9 +1,11 @@
 # 仿美团app中的榛果民宿
 
-还没做完，慢慢更新。
+没做完，app里的界面改了，尴尬。。
 
+请用手机或谷歌浏览器的移动端开发者模式查看下面的链接。
 <a href="https://buppt.github.io/webapp-vue-demo/dist/#/">可以点击这里查看</a>。
-请用手机或谷歌浏览器的移动端开发者模式。
+
+ <img src="gif.gif" width="50%"/>
  
 ## Build Setup
 

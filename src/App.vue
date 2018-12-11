@@ -19,7 +19,9 @@ export default {
   color: #000000;
   margin-top: 10px;
 }
-body{
+html,body{
   margin: 0;
+  width: 100vw;
+  height: 100vh;
 }
 </style>
